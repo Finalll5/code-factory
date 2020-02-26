@@ -1,6 +1,5 @@
-回声“＃代码工厂” >> README.md 
-git init 
-git add README.md 
-git commit -m“第一次提交” 
-git remote add origin https://github.com/Finalll5/code-factory.git
- git push -u原产地大师
+Hello World
+
+Hi Humans!
+
+I like code and C and I want learn something useful.
